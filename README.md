@@ -1,6 +1,7 @@
 # python-management-system-practice
 
 Question 1 — Student Management System
+
 প্রশ্ন :Python ব্যবহার করে একটি Student Management System তৈরি করো। প্রতিটি student-এর থাকবে:
 
 Student ID,
@@ -18,7 +19,6 @@ System-এ নিচের কাজগুলো করতে হবে:
 6. Exit
 
 Question 2 — Bank Account Management
-
 প্রশ্ন : একটি Bank Account Management System তৈরি করো।
 প্রতিটি account-এর থাকবে:
 
